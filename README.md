@@ -1,5 +1,6 @@
 # Snake
-This is a traditional snake game.
+This is a traditional snake game. 
+Just a part of my self studying C#.
 
 INSTRUCTION :
 1. Use arrows on keyboard to move the snake
